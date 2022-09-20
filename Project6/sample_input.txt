@@ -1,0 +1,6 @@
+L12345678,Madison,Dolley,85,91.5,92,80,81.5
+L13579753,Carter,Rosalynn,94,75,83,89.5,88
+L98765432,Lincoln,Mary,68,74,77.5,79,81
+L86420246,Garfield,Lucretia,97.5,93,90,99,91
+L00234567,Eisenhower,Mamie,58,63.5,66,60,59
+L99999999,Adams,Abigail,100,100,100,100,100

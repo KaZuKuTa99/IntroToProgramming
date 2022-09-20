@@ -1,0 +1,6 @@
+Babbage, Charles       88.4 B 
+Turing, Alan           91.3 A 
+Hopper, Grace          92.7 A 
+Van Rossum, Guido      74.0 C 
+Backus, John           93.8 A 
+Crawley, Bryan         63.9 D 
